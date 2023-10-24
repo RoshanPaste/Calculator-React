@@ -2,7 +2,11 @@
 
 A calculator project built with React.
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
+![Calculator Screenshot](https://cdn.discordapp.com/attachments/1089201300568277094/1166270476742557746/Screenshot_48.jpg.png?ex=6549e105&is=65376c05&hm=b1e4e774a2ae75b819fc47b6622af8cd1996482d933f513bdfc3c9db80718447&)
+
+## Demo
+
+You can see a live demo of this project [here](https://calculator-react-assignment.netlify.app/).
 
 ## Features
 
@@ -16,7 +20,7 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone https://github.com/RoshanPaste/Calculator-Reac`
+1. `git clone https://github.com/RoshanPaste/Calculator-React`
 
 2. `cd calculator`
 
@@ -28,6 +32,4 @@ A calculator project built with React.
 
 Any feature requests and pull requests are welcome!
 
-## License
 
-The project is under [MIT license](https://choosealicense.com/licenses/mit/).
